@@ -9,3 +9,4 @@ added peronal token
 Test the PR build request!
 check for PR
 it should build the PR
+auto-merge??
